@@ -15,8 +15,8 @@
     }
 
     textarea {
-       height: 298px;
-       width: 650px;
+      height: 298px;
+      width: 650px;
       top: 253px;
       left: 144px;
       margin-left: 144px;
@@ -25,4 +25,47 @@
       padding: 20px;
       font-size: 14px;
       background-color: #F8F8F8;
+    }
+
+    textarea::placeholder {
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      color: #99999A;
+    }
+
+    form {
+      margin-left: 860px;
+      margin-top: -346px;
+      width: 370px;
+      height: 59px;
+    }
+
+    input[type="text"] {
+      width: 370px; 
+      height: 40px;
+      margin-bottom: 10px;
+      padding: 10px; 
+      background-color: #F8F8F8;
+      border-color: #c6c6c6;
+    }
+
+    input[type="submit"] {
+      width: 395px; 
+      height: 65px;
+      margin-bottom: 10px;
+      background-color: #5968F4;
+      border-color: #5968F4;
+      font-size: 16px; 
+      font-weight: 700; 
+      color: #FFFFFF; 
+      font-family: Helvetica, Arial, sans-serif;
+
+    }
+
+    input::placeholder {
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      color: #99999A;
     }
