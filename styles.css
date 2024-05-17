@@ -69,3 +69,27 @@
       font-weight: 700;
       color: #99999A;
     }
+
+
+    img {
+    	margin-left: 227px;
+    	width: 220px;
+    	margin-top: 310px;
+    	height: 140px;
+    }
+
+    .image2 {
+    	margin-left: 140px;
+    	height: 140px;
+    	width: 170px;
+    	margin-top: 310px;
+    }
+
+    .image3 {
+    	margin-left: 160px;
+    	height: 140px;
+    	width: 170px;
+    	margin-top: 310px;
+    }
+
+    
