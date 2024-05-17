@@ -12,6 +12,17 @@
       font-size: 49px;
       margin-left: 144px;
       margin-top: -20px;
+    }
 
-
+    textarea {
+       height: 298px;
+       width: 650px;
+      top: 253px;
+      left: 144px;
+      margin-left: 144px;
+      resize: none;
+      border: 2px solid #c6c6c6;
+      padding: 20px;
+      font-size: 14px;
+      background-color: #F8F8F8;
     }
